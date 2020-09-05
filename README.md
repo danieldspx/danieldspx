@@ -1,6 +1,9 @@
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danieldspx&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/danieldspx)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldspx&layout=compact)](https://github.com/danieldspx)
+<a href="https://github.com/danieldspx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldspx&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/danieldspx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldspx&layout=compact" />
+</a>
 
 # Projects
 
