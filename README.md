@@ -9,13 +9,13 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=nativescript-audio)](https://github.com/danieldspx/nativescript-audio)
 
-This is my first open-source contribution to a important repo. Refer to nstudio/nativescript-audio#165
+This is my first open-source contribution to a important repo. Refer to [nstudio/nativescript-audio#165](https://github.com/nstudio/nativescript-audio/pull/165)
 
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=ufsmbot-nest-js)](https://github.com/danieldspx/ufsmbot-nest-js)
 
-This was made with NestJS+Firebase+Tesseract and it will schedule the meals in our UFSM's restaurant. This project has a angular [front-end](https://github.com/danieldspx/ufsmbot-ng) as well, but the back-end it the one I love most since it uses this magical thing called Tesseract. And I used it to learn RxJS once and for all.
+This was made with NestJS+Firebase+Tesseract and it will schedule the meals in our UFSM's restaurant. This project has a angular [front-end](https://github.com/danieldspx/ufsmbot-ng) as well, but the back-end it the one I love most since it uses this magical thing called [Tesseract](https://github.com/tesseract-ocr/tesseract). And I used it to learn [RxJS](https://github.com/ReactiveX/rxjs) once and for all.
 
 ---
 
