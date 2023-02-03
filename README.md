@@ -13,18 +13,18 @@ This is my first open-source contribution to a important repo. Refer to [nstudio
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=ufsmbot-nest-js)](https://github.com/danieldspx/ufsmbot-nest-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=pulumi-awsx)](https://github.com/danieldspx/DefinitelyTyped)
 
-This was made with NestJS+Firebase+Tesseract and it will schedule the meals in our UFSM's restaurant. This project has a angular [front-end](https://github.com/danieldspx/ufsmbot-ng) as well, but the back-end it the one I love most since it uses this magical thing called [Tesseract](https://github.com/tesseract-ocr/tesseract). And I used it to learn [RxJS](https://github.com/ReactiveX/rxjs) once and for all.
+Open source contribution to the Pulumi organization by creating the **CapacityProviderService** resource in the @pulumi/awsx through the PR [pulumi/pulumi-awsx#644](https://github.com/pulumi/pulumi-awsx/pull/644)
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=maze-generator)](https://github.com/danieldspx/maze-generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=DefinitelyTyped)](https://github.com/danieldspx/DefinitelyTyped)
 
-I loved this project and it has cool animations, so I will leave it here.
+Open source contribution to the DefinitelyTyped project with the mercadopago types through the PR [DefinitelyTyped/DefinitelyTyped#49745](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49745)
 
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=aes-implementation)](https://github.com/danieldspx/aes-implementation)
 
-I like this project because it seems complicated, but it is fairly simple. And it was made in C, so it gives a false impression that I speak the language of the gods.
+I like this project because it seems complicated, but it is fairly simple.
