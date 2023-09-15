@@ -9,7 +9,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danieldspx&show_owner=true&repo=nativescript-audio)](https://github.com/danieldspx/nativescript-audio)
 
-This is my first open-source contribution to a important repo. Refer to [nstudio/nativescript-audio#165](https://github.com/nstudio/nativescript-audio/pull/165)
+This is my first open-source contribution to an important repo. Refer to [nstudio/nativescript-audio#165](https://github.com/nstudio/nativescript-audio/pull/165)
 
 ---
 
